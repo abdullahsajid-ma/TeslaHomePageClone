@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TeslaHomePageClone/static/css/main.3dce5ba6.css",
+    "main.js": "/TeslaHomePageClone/static/js/main.b97c4373.js",
+    "static/media/Desktop-SolarRoof.jpeg": "/TeslaHomePageClone/static/media/Desktop-SolarRoof.9eb2e602adaeba8e4715.jpeg",
+    "static/media/Desktop-SolarPanels.jpeg": "/TeslaHomePageClone/static/media/Desktop-SolarPanels.d7d441d74e34d37c2c00.jpeg",
+    "static/media/Desktop-ModelX.jpeg": "/TeslaHomePageClone/static/media/Desktop-ModelX.834173034c452839cba0.jpeg",
+    "static/media/Desktop-ModelS.jpeg": "/TeslaHomePageClone/static/media/Desktop-ModelS.e3d22a07aa3fe0fa6e75.jpeg",
+    "static/media/Desktop-ModelY.jpeg": "/TeslaHomePageClone/static/media/Desktop-ModelY.30acb76aab6f760a753a.jpeg",
+    "static/media/Desktop-Model3.jpeg": "/TeslaHomePageClone/static/media/Desktop-Model3.30651f796c26e128fa1b.jpeg",
+    "static/media/iCiel-Medium.ttf": "/TeslaHomePageClone/static/media/iCiel-Medium.b23bb62d3ada95759750.ttf",
+    "static/media/Desktop-Accessories.jpg": "/TeslaHomePageClone/static/media/Desktop-Accessories.027ada94d343f5d81f6d.jpg",
+    "static/media/teslaLogoSmall.svg": "/TeslaHomePageClone/static/media/teslaLogoSmall.a7b59bc6aae7059ffd7b4a18a105eb72.svg",
+    "index.html": "/TeslaHomePageClone/index.html",
+    "main.3dce5ba6.css.map": "/TeslaHomePageClone/static/css/main.3dce5ba6.css.map",
+    "main.b97c4373.js.map": "/TeslaHomePageClone/static/js/main.b97c4373.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dce5ba6.css",
+    "static/js/main.b97c4373.js"
+  ]
+}
